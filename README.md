@@ -30,6 +30,8 @@ O objetivo principal é um equipamento detector de velocidade e direção do ven
 - Relé de canal de sinal
 - Buzzer
 
+- Arduino IDE para desenvolvimento e testes do código
+
 ## Explicação detalhada do projeto
 
 https://www.youtube.com/watch?v=MZTeXx9VKkk 
